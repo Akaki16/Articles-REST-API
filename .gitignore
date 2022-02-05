@@ -1,0 +1,7 @@
+node_modules
+.env
+new_article.rest
+single_article.rest
+articles.rest
+delete_article.rest
+update_article.rest
